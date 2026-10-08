@@ -58,7 +58,7 @@
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/sufiyanchupz
 - LinkedIn: https://www.linkedin.com/in/muhammed-sufiyan-33a412397?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - Email: sufiyanchupz3247@gmail.com
 
